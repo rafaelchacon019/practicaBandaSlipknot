@@ -5,5 +5,17 @@
 
 .contenedor {
     display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 100px 16px;
+}
+
+.pic img {
+    width: 500px;
+    height: 500px;
+}
+
+.contenido {
+    display: flex;
     flex-direction: column;
 }
