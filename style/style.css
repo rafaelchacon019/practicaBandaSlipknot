@@ -1,8 +1,17 @@
+<<<<<<< HEAD
 /* .uno {
     background-color: antiquewhite;
 }
 
 h1 {
+=======
+
+.uno{
+    background-color: antiquewhite;
+}
+
+h1{
+>>>>>>> e9d484638eea8a9d6f00869275c68e4ac411048e
     font-size: 30;
     color: blueviolet;
     text-align: center;
@@ -12,8 +21,16 @@ body {
     background-color: rgba(6, 56, 58, 0.377);
     columns: 400px;
 }
+<<<<<<< HEAD
 
 .ma {
     width: 400px;
     height: 400px;
 } */
+=======
+.ma{
+    width: 400px;
+    height: 400px;
+
+}
+>>>>>>> e9d484638eea8a9d6f00869275c68e4ac411048e
